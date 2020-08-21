@@ -1,5 +1,6 @@
 This is a wrapper for programs that start up slowly on kde.
 As shown it is configured for Android Studio,
+which takes a long time to start up for the first time after a reboot,
 but you just need to edit the first four lines for something else.
 
 The problem it is trying to solve is that if you have a large high resolution screen
