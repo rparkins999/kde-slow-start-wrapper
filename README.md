@@ -12,7 +12,7 @@ wondering if you really *did* start the program.
 
 So this shell script pops up a message box down at the bottom right corner
 of the screen, where the tiling window manager doesn't put anything
-until there is no toom anywhere else,
+until there is no room anywhere else,
 and removes the message box when the program main window appears.
 
 It also provides a working example of how to get around the fact that
